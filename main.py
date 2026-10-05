@@ -5,3 +5,5 @@ b = float(input("Enter 2nd no: "))
 
 print("Addition:", a + b)
 print("Sub:", a - b)
+print("Multiplication:", a * b)
+print("Division:", a / b)
